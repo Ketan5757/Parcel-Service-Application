@@ -1,0 +1,5846 @@
+[
+	{
+      "url": "/locations/946660",
+      "location": {
+        "ids": [
+          {
+            "locationId": "946660",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 122,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Langer Anger 27"
+        },
+        "geo": {
+          "latitude": 49.399620003465465,
+          "longitude": 8.671289999976876
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/269893",
+      "location": {
+        "ids": [
+          {
+            "locationId": "269893",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 654,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Willy-Brandt-Platz"
+        },
+        "geo": {
+          "latitude": 49.40394400346675,
+          "longitude": 8.676776999977251
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469115116",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469115116",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN141",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "116",
+        "type": "locker"
+      },
+      "name": "Packstation 116",
+      "distance": 658,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Willy-Brandt-Platz 5"
+        },
+        "geo": {
+          "latitude": 49.40446,
+          "longitude": 8.675031
+        },
+        "containedInPlace": {
+          "name": "Hauptbahnhof Heidelberg"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4306613",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4306613",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "501",
+        "type": "postoffice"
+      },
+      "name": "c-fashion",
+      "distance": 766,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Kurfürsten-Anlage 62"
+        },
+        "geo": {
+          "latitude": 49.405224,
+          "longitude": 8.676211
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "handicapped-access",
+        "cash-on-delivery",
+        "letter-service",
+        "parcel:drop-off",
+        "age-verification",
+        "packaging-material",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/MHNOW5",
+      "location": {
+        "ids": [
+          {
+            "locationId": "MHNOW5",
+            "provider": "express"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "servicepoint"
+      },
+      "name": "Postfiliale 501",
+      "distance": 766,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "HEIDELBERG",
+          "streetAddress": "Kurfuersten-Anlage 62"
+        },
+        "geo": {
+          "latitude": 49.4052242,
+          "longitude": 8.6762106
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "express:drop-off-unlabeled",
+        "express:pick-up",
+        "express:drop-off-prelabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/01FEB0D125F3C43DE040400A12027386",
+      "location": {
+        "ids": [
+          {
+            "locationId": "01FEB0D125F3C43DE040400A12027386",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "pobox"
+      },
+      "name": "",
+      "distance": 766,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Kurfürsten-Anlage 62"
+        },
+        "geo": {
+          "latitude": 49.4052242834671,
+          "longitude": 8.676210659977208
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271035",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271035",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 781,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Mittermeierstr."
+        },
+        "geo": {
+          "latitude": 49.40519400346711,
+          "longitude": 8.67683299997724
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271034",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271034",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 781,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Mittermeierstr."
+        },
+        "geo": {
+          "latitude": 49.40519400346711,
+          "longitude": 8.67683299997724
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/267045",
+      "location": {
+        "ids": [
+          {
+            "locationId": "267045",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 806,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Eppelheimer Str. 13"
+        },
+        "geo": {
+          "latitude": 49.405166003467095,
+          "longitude": 8.66708299997656
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/269430",
+      "location": {
+        "ids": [
+          {
+            "locationId": "269430",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 922,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Dantestr. 35-37"
+        },
+        "geo": {
+          "latitude": 49.40030500346559,
+          "longitude": 8.684887999977828
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/272742",
+      "location": {
+        "ids": [
+          {
+            "locationId": "272742",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 931,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Zähringer Str. 57"
+        },
+        "geo": {
+          "latitude": 49.4018330034661,
+          "longitude": 8.68436099997778
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266592",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266592",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1014,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bergheimer Str. 157"
+        },
+        "geo": {
+          "latitude": 49.40786100346785,
+          "longitude": 8.673887999977026
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/861511",
+      "location": {
+        "ids": [
+          {
+            "locationId": "861511",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1108,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Mannheimer Str. 2"
+        },
+        "geo": {
+          "latitude": 49.40833300346803,
+          "longitude": 8.667971999976618
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271575",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271575",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1110,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Römerstr. 18"
+        },
+        "geo": {
+          "latitude": 49.404861003467005,
+          "longitude": 8.684554999977797
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/272388",
+      "location": {
+        "ids": [
+          {
+            "locationId": "272388",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1142,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Vangerowstr. 16"
+        },
+        "geo": {
+          "latitude": 49.40902700346816,
+          "longitude": 8.671026999976828
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/781599",
+      "location": {
+        "ids": [
+          {
+            "locationId": "781599",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1318,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Blumenstr. 22"
+        },
+        "geo": {
+          "latitude": 49.40444400346682,
+          "longitude": 8.688360999978054
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266597",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266597",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1322,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bergheimer Str. 58"
+        },
+        "geo": {
+          "latitude": 49.40786100346787,
+          "longitude": 8.684193999977754
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266996",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266996",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1328,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rohrbacher Str. 84"
+        },
+        "geo": {
+          "latitude": 49.40027700346566,
+          "longitude": 8.69055499997822
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469126103",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469126103",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN144",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "103",
+        "type": "locker"
+      },
+      "name": "Packstation 103",
+      "distance": 1361,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rohrbacher Str. 110"
+        },
+        "geo": {
+          "latitude": 49.394442,
+          "longitude": 8.689917
+        },
+        "containedInPlace": {
+          "name": "Studentenwohnheim"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/637874",
+      "location": {
+        "ids": [
+          {
+            "locationId": "637874",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1369,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rohrbacher Str. 122"
+        },
+        "geo": {
+          "latitude": 49.39433300346387,
+          "longitude": 8.689971999978201
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469126155",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469126155",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNUN4",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "155",
+        "type": "locker"
+      },
+      "name": "Packstation 155",
+      "distance": 1443,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rheinstr. 29"
+        },
+        "geo": {
+          "latitude": 49.389811,
+          "longitude": 8.686742
+        },
+        "containedInPlace": {
+          "name": "tegut"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/696216",
+      "location": {
+        "ids": [
+          {
+            "locationId": "696216",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1474,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Veit-Stoß-Str. 5-7"
+        },
+        "geo": {
+          "latitude": 49.39049900346277,
+          "longitude": 8.688221999978087
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469124164",
+      "location": {
+        "ids": [
+          {
+            "locationId": "MHNME4",
+            "provider": "express"
+          },
+          {
+            "locationId": "8007-469124164",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "164",
+        "type": "locker",
+        "leanLocker": true
+      },
+      "name": "Packstation 164",
+      "distance": 1509,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Pleikartsförster Str. 101"
+        },
+        "geo": {
+          "latitude": 49.387142,
+          "longitude": 8.661754
+        },
+        "containedInPlace": {
+          "name": "App-gesteuerte Packstation, ESSO Tankstelle"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "express:pick-up",
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4135610",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4135610",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN1R3",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "461",
+        "type": "postoffice"
+      },
+      "name": "tegut...",
+      "distance": 1519,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rheinstr. 29"
+        },
+        "geo": {
+          "latitude": 49.389985,
+          "longitude": 8.688385
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "letter-service",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4313298",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4313298",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "467",
+        "type": "servicepoint"
+      },
+      "name": "REWE Markt GmbH",
+      "distance": 1533,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Im Franzosengewann 3"
+        },
+        "geo": {
+          "latitude": 49.385066,
+          "longitude": 8.674117
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271567",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271567",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1538,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rohrbacher Str. 45"
+        },
+        "geo": {
+          "latitude": 49.403833003466666,
+          "longitude": 8.692137999978332
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/716324",
+      "location": {
+        "ids": [
+          {
+            "locationId": "716324",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1541,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Rohrbacher Str. 149"
+        },
+        "geo": {
+          "latitude": 49.391361003463004,
+          "longitude": 8.690304999978231
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4135771",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4135771",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN065",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "578",
+        "type": "postoffice"
+      },
+      "name": "POC @ Office World",
+      "distance": 1578,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bahnhofstr. 9-13"
+        },
+        "geo": {
+          "latitude": 49.406029,
+          "longitude": 8.691111
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266447",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266447",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1584,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bahnhofstr. 9-13"
+        },
+        "geo": {
+          "latitude": 49.40610000346737,
+          "longitude": 8.691139999978256
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4306758",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4306758",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNLA1",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "468",
+        "type": "postoffice"
+      },
+      "name": "MamiMode",
+      "distance": 1613,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Im Bosseldorn 30"
+        },
+        "geo": {
+          "latitude": 49.385099,
+          "longitude": 8.679691
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "14:15:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "15:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "14:15:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "15:00:00",
+          "closes": "17:30:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "15:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "15:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "15:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "13:00:00",
+          "closes": "14:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266595",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266595",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1623,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69115",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bergheimer Str. 45"
+        },
+        "geo": {
+          "latitude": 49.4085000034681,
+          "longitude": 8.689110999978098
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266707",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266707",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1630,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Breslauer Str. 37"
+        },
+        "geo": {
+          "latitude": 49.384277003460866,
+          "longitude": 8.669387999976781
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4101739",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4101739",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "424",
+        "type": "servicepoint"
+      },
+      "name": "Baier Digitaldruck GmbH",
+      "distance": 1696,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Im Neuenheimer Feld 371"
+        },
+        "geo": {
+          "latitude": 49.41402,
+          "longitude": 8.670994
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469126123",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469126123",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNQW4",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "123",
+        "type": "locker"
+      },
+      "name": "Packstation 123",
+      "distance": 1714,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Felix-Wankel-Str. 18"
+        },
+        "geo": {
+          "latitude": 49.38395,
+          "longitude": 8.678733
+        },
+        "containedInPlace": {
+          "name": "REWE Markt"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unregistered",
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up-registered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8007-469124163",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469124163",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN00R",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "163",
+        "type": "locker"
+      },
+      "name": "Packstation 163",
+      "distance": 1727,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Breslauer Str. 26"
+        },
+        "geo": {
+          "latitude": 49.383768,
+          "longitude": 8.666459
+        },
+        "containedInPlace": {
+          "name": "Neukauf"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unregistered",
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up-registered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4133048",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4133048",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "577",
+        "type": "servicepoint"
+      },
+      "name": "REWE Markt GmbH",
+      "distance": 1734,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Felix-Wankel-Str. 20"
+        },
+        "geo": {
+          "latitude": 49.383756,
+          "longitude": 8.67866
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271451",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271451",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1742,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Pleikartsförster Hof"
+        },
+        "geo": {
+          "latitude": 49.38938800346243,
+          "longitude": 8.653221999975628
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469120120",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469120120",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN1D5",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "120",
+        "type": "locker"
+      },
+      "name": "Packstation 120",
+      "distance": 1745,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Berliner Str. 6"
+        },
+        "geo": {
+          "latitude": 49.414092,
+          "longitude": 8.677774
+        },
+        "containedInPlace": {
+          "name": "Konzernzentrale Heidelberg Cement"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unregistered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/541866",
+      "location": {
+        "ids": [
+          {
+            "locationId": "541866",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1851,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Jahnstr. 2"
+        },
+        "geo": {
+          "latitude": 49.41391600346962,
+          "longitude": 8.68308299997767
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266696",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266696",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1943,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69123",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Bonhoefferstr. 9"
+        },
+        "geo": {
+          "latitude": 49.41250000346926,
+          "longitude": 8.655776999975739
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4130552",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4130552",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "422",
+        "type": "servicepoint"
+      },
+      "name": "REWE Karaaslan OHG",
+      "distance": 1956,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Ladenburger Str. 68"
+        },
+        "geo": {
+          "latitude": 49.414112,
+          "longitude": 8.685652
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270086",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270086",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 2051,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Humboldtstr. 23"
+        },
+        "geo": {
+          "latitude": 49.41688800347051,
+          "longitude": 8.67788799997729
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271922",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271922",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 2128,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Schwetzinger Str. 60"
+        },
+        "geo": {
+          "latitude": 49.37972200345958,
+          "longitude": 8.67016599997685
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4071618",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4071618",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN349",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "505",
+        "type": "postoffice"
+      },
+      "name": "Paul Godel GmbH & Co. KG",
+      "distance": 2136,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Schwetzinger Str. 71"
+        },
+        "geo": {
+          "latitude": 49.379664,
+          "longitude": 8.669832
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270490",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270490",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 2165,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Im Neuenheimer Feld 230"
+        },
+        "geo": {
+          "latitude": 49.418194003470944,
+          "longitude": 8.675026999977087
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-469126125",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-469126125",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN1C8",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "125",
+        "type": "locker"
+      },
+      "name": "Packstation 125",
+      "distance": 2180,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Heinrich-Fuchs-Str. 98"
+        },
+        "geo": {
+          "latitude": 49.379575,
+          "longitude": 8.678228
+        },
+        "containedInPlace": {
+          "name": "Lidl Markt, neben der Anlieferung"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off-unregistered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/270491",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270491",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 2198,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Im Neuenheimer Feld 400"
+        },
+        "geo": {
+          "latitude": 49.418333003470984,
+          "longitude": 8.667776999976565
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4128731",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4128731",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "436",
+        "type": "servicepoint"
+      },
+      "name": "REWE Sahin Karaaslan GmbH & Co. KG",
+      "distance": 2236,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69120",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Berliner Str. 41-49"
+        },
+        "geo": {
+          "latitude": 49.4188,
+          "longitude": 8.675534
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270745",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270745",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 2260,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69126",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Kolbenzeil 1"
+        },
+        "geo": {
+          "latitude": 49.379527003459536,
+          "longitude": 8.682276999977699
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4097240",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4097240",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "416",
+        "type": "servicepoint"
+      },
+      "name": "Lotto Hähsler",
+      "distance": 2269,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "69124",
+          "addressLocality": "Heidelberg",
+          "streetAddress": "Schwetzinger Str. 49"
+        },
+        "geo": {
+          "latitude": 49.378607,
+          "longitude": 8.667988
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "06:45:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+	{
+      "url": "/locations/388169",
+      "location": {
+        "ids": [
+          {
+            "locationId": "388169",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 75,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2 Paradeplatz"
+        },
+        "geo": {
+          "latitude": 49.48738800349129,
+          "longitude": 8.467026999962101
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/388842",
+      "location": {
+        "ids": [
+          {
+            "locationId": "388842",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 75,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2 Paradeplatz"
+        },
+        "geo": {
+          "latitude": 49.48738800349129,
+          "longitude": 8.467026999962101
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-14954",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-14954",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN206",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "567",
+        "type": "postbank"
+      },
+      "name": "Postbank Filiale",
+      "distance": 87,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2 1-10"
+        },
+        "geo": {
+          "latitude": 49.486859,
+          "longitude": 8.466686
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:30:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:30:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "express:drop-off",
+        "postbank",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "parcel:pick-up-unregistered",
+        "age-verification",
+        "packaging-material"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/01FEB0D127A9C43DE040400A12027386",
+      "location": {
+        "ids": [
+          {
+            "locationId": "01FEB0D127A9C43DE040400A12027386",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "pobox"
+      },
+      "name": "",
+      "distance": 87,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2 1-10"
+        },
+        "geo": {
+          "latitude": 49.48685845326004,
+          "longitude": 8.466685922217149
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4316274",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4316274",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "405",
+        "type": "servicepoint"
+      },
+      "name": "Stadthaus Kiosk",
+      "distance": 131,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "N 1 1"
+        },
+        "geo": {
+          "latitude": 49.486328,
+          "longitude": 8.465774
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271373",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271373",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 144,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2"
+        },
+        "geo": {
+          "latitude": 49.487055003491186,
+          "longitude": 8.467860999962156
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271375",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271375",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 144,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2"
+        },
+        "geo": {
+          "latitude": 49.487055003491186,
+          "longitude": 8.467860999962156
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-468161118",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468161118",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNUB3",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "118",
+        "type": "locker"
+      },
+      "name": "Packstation 118",
+      "distance": 147,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 2 1-10"
+        },
+        "geo": {
+          "latitude": 49.48641,
+          "longitude": 8.46715
+        },
+        "containedInPlace": {
+          "name": "Ecke O2/O3-Kunststr."
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unregistered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4321406",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4321406",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "419",
+        "type": "servicepoint"
+      },
+      "name": "Q-Mobile",
+      "distance": 183,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Q 2 5"
+        },
+        "geo": {
+          "latitude": 49.488414,
+          "longitude": 8.468105
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "12:30:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "12:30:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/879560",
+      "location": {
+        "ids": [
+          {
+            "locationId": "879560",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 213,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "E 4 13"
+        },
+        "geo": {
+          "latitude": 49.488750003491674,
+          "longitude": 8.463776999961864
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4315346",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4315346",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNGM1",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "559",
+        "type": "postoffice"
+      },
+      "name": "Eddy´s Kiosk",
+      "distance": 242,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "N 4 10"
+        },
+        "geo": {
+          "latitude": 49.485698,
+          "longitude": 8.467867
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4136446",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4136446",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "563",
+        "type": "servicepoint"
+      },
+      "name": "Kiosk Makan Fressgasse",
+      "distance": 254,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Q 4 1"
+        },
+        "geo": {
+          "latitude": 49.487484,
+          "longitude": 8.469501
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "17:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/587883",
+      "location": {
+        "ids": [
+          {
+            "locationId": "587883",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 281,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "R 1 (Marktplatz) 6"
+        },
+        "geo": {
+          "latitude": 49.48966600349197,
+          "longitude": 8.467999999962151
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266224",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266224",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 332,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "A 2 3"
+        },
+        "geo": {
+          "latitude": 49.48536100349069,
+          "longitude": 8.462804999961808
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4324482",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4324482",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "452",
+        "type": "servicepoint"
+      },
+      "name": "Loris Parfüm Mannheim",
+      "distance": 354,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "G 3 9"
+        },
+        "geo": {
+          "latitude": 49.490683,
+          "longitude": 8.465934
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "20:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270776",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270776",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 354,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "L 1 2"
+        },
+        "geo": {
+          "latitude": 49.48472200349055,
+          "longitude": 8.463610999961865
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-468161132",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468161132",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN110",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "132",
+        "type": "locker"
+      },
+      "name": "Packstation 132",
+      "distance": 411,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "N 6 7"
+        },
+        "geo": {
+          "latitude": 49.48502,
+          "longitude": 8.470202
+        },
+        "containedInPlace": {
+          "name": "neben Studentenwohnheim"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/271379",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271379",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 440,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "O 7 4"
+        },
+        "geo": {
+          "latitude": 49.485638003490756,
+          "longitude": 8.471360999962409
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4128017",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4128017",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "497",
+        "type": "servicepoint"
+      },
+      "name": "REWE Thomas Viering OHG",
+      "distance": 461,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Q 6 7"
+        },
+        "geo": {
+          "latitude": 49.487002,
+          "longitude": 8.472319
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4307002",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4307002",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNOW7",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "",
+        "type": "postoffice"
+      },
+      "name": "CIGO",
+      "distance": 479,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Q 7 2"
+        },
+        "geo": {
+          "latitude": 49.486565,
+          "longitude": 8.472456
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "19:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "letter-service",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4292864",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4292864",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "401",
+        "type": "servicepoint"
+      },
+      "name": "Kiosk Ozman",
+      "distance": 493,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "G 6 8"
+        },
+        "geo": {
+          "latitude": 49.491626,
+          "longitude": 8.463527
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:00:00",
+          "closes": "18:30:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4326316",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4326316",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "417",
+        "type": "servicepoint"
+      },
+      "name": "Tabakladen",
+      "distance": 497,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "L 8 6"
+        },
+        "geo": {
+          "latitude": 49.483333,
+          "longitude": 8.468465
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "08:30:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/269877",
+      "location": {
+        "ids": [
+          {
+            "locationId": "269877",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 498,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "H 4 9"
+        },
+        "geo": {
+          "latitude": 49.491972003492684,
+          "longitude": 8.465554999961972
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-468159153",
+      "location": {
+        "ids": [
+          {
+            "locationId": "MHNLP1",
+            "provider": "express"
+          },
+          {
+            "locationId": "8007-468159153",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "153",
+        "type": "locker"
+      },
+      "name": "Packstation 153",
+      "distance": 594,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "K 1 2"
+        },
+        "geo": {
+          "latitude": 49.492251,
+          "longitude": 8.469751
+        },
+        "containedInPlace": {
+          "name": "2, Tiefgarage, 1UG"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "express:pick-up",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4316560",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4316560",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "406",
+        "type": "servicepoint"
+      },
+      "name": "Gerhard Kiosk",
+      "distance": 607,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "I 6 7"
+        },
+        "geo": {
+          "latitude": 49.492934,
+          "longitude": 8.465216
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4301003",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4301003",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "573",
+        "type": "servicepoint"
+      },
+      "name": "REWE Thomas Viering OHG",
+      "distance": 651,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "S 6 29-31"
+        },
+        "geo": {
+          "latitude": 49.487313,
+          "longitude": 8.474978
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "07:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/694042",
+      "location": {
+        "ids": [
+          {
+            "locationId": "694042",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 683,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "K 1 8-12"
+        },
+        "geo": {
+          "latitude": 49.49277700349288,
+          "longitude": 8.470832999962335
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270531",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270531",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 714,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "K 6"
+        },
+        "geo": {
+          "latitude": 49.493888003493254,
+          "longitude": 8.464999999961924
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4325543",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4325543",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNAD9",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "501",
+        "type": "postoffice"
+      },
+      "name": "4YOU Post",
+      "distance": 776,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68165",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Moltkestr. 2"
+        },
+        "geo": {
+          "latitude": 49.48251,
+          "longitude": 8.473477
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "14:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "13:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/269889",
+      "location": {
+        "ids": [
+          {
+            "locationId": "269889",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 782,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Hans-Böckler-Platz 1"
+        },
+        "geo": {
+          "latitude": 49.49138800349252,
+          "longitude": 8.47499999996264
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/266350",
+      "location": {
+        "ids": [
+          {
+            "locationId": "266350",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 784,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Am Rosengartenplatz 1"
+        },
+        "geo": {
+          "latitude": 49.48500000349058,
+          "longitude": 8.476110999962756
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/272312",
+      "location": {
+        "ids": [
+          {
+            "locationId": "272312",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 839,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Tattersallstr. 25-27"
+        },
+        "geo": {
+          "latitude": 49.48166600348959,
+          "longitude": 8.473332999962567
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/272310",
+      "location": {
+        "ids": [
+          {
+            "locationId": "272310",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 839,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Tattersallstr. 25-27"
+        },
+        "geo": {
+          "latitude": 49.48166600348959,
+          "longitude": 8.473332999962567
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271544",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271544",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 884,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Rheinkaistr. 2"
+        },
+        "geo": {
+          "latitude": 49.48563800349081,
+          "longitude": 8.45413799996119
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271546",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271546",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 884,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Rheinkaistr. 2"
+        },
+        "geo": {
+          "latitude": 49.48563800349081,
+          "longitude": 8.45413799996119
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4122864",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4122864",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "498",
+        "type": "servicepoint"
+      },
+      "name": "Kiosk Yüksel",
+      "distance": 911,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Beilstr. 22"
+        },
+        "geo": {
+          "latitude": 49.494656,
+          "longitude": 8.459877
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "11:00:00",
+          "closes": "23:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "23:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "23:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "23:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/365557",
+      "location": {
+        "ids": [
+          {
+            "locationId": "365557",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 919,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Willy-Brandt-Platz (Hauptbahnhof)"
+        },
+        "geo": {
+          "latitude": 49.47972200348902,
+          "longitude": 8.470276999962358
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/270529",
+      "location": {
+        "ids": [
+          {
+            "locationId": "270529",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 927,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Jungbuschstr. 25"
+        },
+        "geo": {
+          "latitude": 49.49388800349327,
+          "longitude": 8.457776999961412
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4140370",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4140370",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "450",
+        "type": "servicepoint"
+      },
+      "name": "Kiosk Vali-Vero",
+      "distance": 944,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68165",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Schwetzinger Str. 24"
+        },
+        "geo": {
+          "latitude": 49.480944,
+          "longitude": 8.474269
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "10:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "10:00:00",
+          "closes": "16:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-468161151",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468161151",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN112",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "151",
+        "type": "locker"
+      },
+      "name": "Packstation 151",
+      "distance": 946,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68161",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Willy-Brandt-Platz 17"
+        },
+        "geo": {
+          "latitude": 49.479502,
+          "longitude": 8.470437
+        },
+        "containedInPlace": {
+          "name": "Hbf. Untergeschoss, Zugang Tiefgarage"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "01:00:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        },
+        {
+          "opens": "04:30:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unregistered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8007-468159141",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468159141",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN109",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "141",
+        "type": "locker",
+        "leanLocker": true
+      },
+      "name": "Packstation 141",
+      "distance": 966,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Hafenstr. 19-21"
+        },
+        "geo": {
+          "latitude": 49.493893,
+          "longitude": 8.456979
+        },
+        "containedInPlace": {
+          "name": "Aral Tankstelle"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unregistered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8007-468169111",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468169111",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN1B5",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "111",
+        "type": "locker"
+      },
+      "name": "Packstation 111",
+      "distance": 992,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68169",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Dammstr. 1-3"
+        },
+        "geo": {
+          "latitude": 49.495987,
+          "longitude": 8.470218
+        },
+        "containedInPlace": {
+          "name": "Lidl Markt"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off-unregistered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8007-468159121",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468159121",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHNRT1",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "121",
+        "type": "locker"
+      },
+      "name": "Packstation 121",
+      "distance": 1017,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Dalbergstr. 41"
+        },
+        "geo": {
+          "latitude": 49.49599,
+          "longitude": 8.460798
+        },
+        "containedInPlace": {
+          "name": "PENNY Markt"
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up-registered",
+        "parcel:drop-off-unregistered",
+        "parcel:drop-off-unlabeled",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "high"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "high"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4294752",
+      "location": {
+        "ids": [
+          {
+            "locationId": "MHNLE1",
+            "provider": "express"
+          },
+          {
+            "locationId": "8003-4294752",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "573",
+        "type": "postoffice"
+      },
+      "name": "Postfiliale 573",
+      "distance": 1041,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68159",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Hafenstr. 66"
+        },
+        "geo": {
+          "latitude": 49.494997,
+          "longitude": 8.4574
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "18:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "06:00:00",
+          "closes": "12:00:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:drop-off-unlabeled",
+        "postident",
+        "express:drop-off-easy",
+        "handicapped-access",
+        "express:drop-off",
+        "express:drop-off-account",
+        "cash-on-delivery",
+        "express:drop-off-unlabeled",
+        "express:drop-off-prelabeled",
+        "parcel:drop-off",
+        "age-verification",
+        "express:pick-up",
+        "letter-service",
+        "parcel:pick-up-unregistered",
+        "parking"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/271032",
+      "location": {
+        "ids": [
+          {
+            "locationId": "271032",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1180,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68169",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Mittelstr. 1"
+        },
+        "geo": {
+          "latitude": 49.49727700349423,
+          "longitude": 8.472332999962433
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8003-4292198",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4292198",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "483",
+        "type": "servicepoint"
+      },
+      "name": "Supreme Fayas Trading",
+      "distance": 1198,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68169",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Mittelstr. 25"
+        },
+        "geo": {
+          "latitude": 49.497941,
+          "longitude": 8.470076
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "14:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "11:00:00",
+          "closes": "22:00:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/855242",
+      "location": {
+        "ids": [
+          {
+            "locationId": "855242",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1271,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68169",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Mittelstr. 47"
+        },
+        "geo": {
+          "latitude": 49.49888800349477,
+          "longitude": 8.467499999962072
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/8007-468163127",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8007-468163127",
+            "provider": "parcel"
+          },
+          {
+            "locationId": "MHN113",
+            "provider": "express"
+          }
+        ],
+        "keyword": "Packstation",
+        "keywordId": "127",
+        "type": "locker"
+      },
+      "name": "Packstation 127",
+      "distance": 1280,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68163",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Gontardstr. 37"
+        },
+        "geo": {
+          "latitude": 49.476265,
+          "longitude": 8.469818
+        },
+        "containedInPlace": {
+          "name": "Ecke Bellenstr."
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        },
+        {
+          "opens": "00:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Sunday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off-unregistered",
+        "parcel:pick-up-registered",
+        "express:pick-up"
+      ],
+      "averageCapacityDayOfWeek": [
+        {
+          "dayOfWeek": "Monday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Tuesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Wednesday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Thursday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Friday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Saturday",
+          "capacity": "very-low"
+        },
+        {
+          "dayOfWeek": "Sunday",
+          "capacity": "very-low"
+        }
+      ]
+    },
+    {
+      "url": "/locations/8003-4322452",
+      "location": {
+        "ids": [
+          {
+            "locationId": "8003-4322452",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "Postfiliale",
+        "keywordId": "443",
+        "type": "servicepoint"
+      },
+      "name": "Arena Kiosk",
+      "distance": 1298,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68169",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Mittelstr. 54"
+        },
+        "geo": {
+          "latitude": 49.499146,
+          "longitude": 8.467189
+        }
+      },
+      "openingHours": [
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Monday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Tuesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Wednesday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Thursday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Friday"
+        },
+        {
+          "opens": "09:00:00",
+          "closes": "23:59:00",
+          "dayOfWeek": "http://schema.org/Saturday"
+        }
+      ],
+      "closurePeriods": [],
+      "serviceTypes": [
+        "parcel:pick-up",
+        "parcel:pick-up-unregistered",
+        "parcel:drop-off-unlabeled",
+        "parcel:drop-off"
+      ],
+      "averageCapacityDayOfWeek": []
+    },
+    {
+      "url": "/locations/269606",
+      "location": {
+        "ids": [
+          {
+            "locationId": "269606",
+            "provider": "parcel"
+          }
+        ],
+        "keyword": "",
+        "keywordId": "",
+        "type": "postbox"
+      },
+      "name": "",
+      "distance": 1300,
+      "place": {
+        "address": {
+          "countryCode": "DE",
+          "postalCode": "68163",
+          "addressLocality": "Mannheim",
+          "streetAddress": "Gontardplatz 7"
+        },
+        "geo": {
+          "latitude": 49.47588800348794,
+          "longitude": 8.468026999962214
+        }
+      },
+      "openingHours": [],
+      "closurePeriods": [],
+      "serviceTypes": [],
+      "averageCapacityDayOfWeek": []
+    }
+]

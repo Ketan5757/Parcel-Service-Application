@@ -1,0 +1,8 @@
+CALL gds.graph.project(
+  'routeGraph',
+  'RC',
+  'WAY',
+  {
+    relationshipProperties: 'distance'
+  }
+)

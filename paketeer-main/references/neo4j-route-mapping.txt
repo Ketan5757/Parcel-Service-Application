@@ -1,0 +1,15 @@
+MATCH (rc:RC)
+WHERE rc.path IS NOT NULL
+UNWIND RANGE(0, SIZE(rc.path)-1) as index
+WITH rc, rc.path[index] as pathName, rc.pos[index] as pathPos
+RETURN rc.lat, rc.lng, pathName, pathPos
+ORDER BY pathName, pathPos
+
+MATCH (rc1:RC), (rc2:RC)
+WHERE rc1 <> rc2 
+AND ANY(pathName IN rc1.path WHERE pathName IN rc2.path)
+WITH rc1, rc2, [pathName IN rc1.path WHERE pathName IN rc2.path][0] as commonPathName
+WITH rc1, rc2, apoc.coll.indexOf(rc1.path,commonPathName) as rc1idx, apoc.coll.indexOf(rc2.path,commonPathName) as rc2idx
+WHERE (rc1.pos[rc1idx] = rc2.pos[rc2idx] + 1 OR rc1.pos[rc1idx] = rc2.pos[rc2idx] - 1)
+CREATE (rc1)-[:WAY { distance: 1}]->(rc2)
+RETURN ID(rc1) AS rc1_id, ID(rc2) AS rc2_id, rc1idx, rc2idx

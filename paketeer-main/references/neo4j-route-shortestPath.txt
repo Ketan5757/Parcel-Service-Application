@@ -1,0 +1,31 @@
+MATCH (start:RC)
+WITH start, point.distance(point({latitude: start.lat, longitude: start.lng}), point({latitude: 49.383756, longitude: 8.67866})) AS startDist
+ORDER BY startDist ASC
+LIMIT 1
+MATCH (end:RC)
+WITH start, end, startDist, point.distance(point({latitude: end.lat, longitude: end.lng}), point({latitude: 49.3985959, longitude: 8.674616})) AS endDist
+ORDER BY endDist ASC
+LIMIT 1
+
+CALL gds.shortestPath.dijkstra.stream(
+  'routeGraph',
+  {
+    sourceNode: start,
+    targetNode: end,
+    relationshipWeightProperty: 'distance'
+  }
+)
+YIELD
+  index,
+  sourceNode,
+  targetNode,
+  totalCost,
+  path
+RETURN
+  index,
+  gds.util.asNode(sourceNode).name AS sourceNodeName,
+  gds.util.asNode(targetNode).name AS targetNodeName,
+  totalCost,
+  nodes(path) AS path
+ORDER BY index
+

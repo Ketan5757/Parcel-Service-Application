@@ -1,0 +1,22 @@
+CALL apoc.load.xml("heidelberg-alt.kml", "/kml/Document/Placemark", {}, false)
+YIELD value
+UNWIND value as item
+WITH [i in item._children WHERE i._type = "LineString"][0] as lineString,
+     [i in item._children WHERE i._type = "ExtendedData"][0] as extData
+UNWIND [item in extData._children WHERE item.name IN ["@id", "highway", "maxspeed", "ref"]] as filteredDataList
+WITH lineString,
+     COLLECT(CASE WHEN filteredDataList.name = "@id" THEN filteredDataList._children[0]._text END) AS pathName,
+     COLLECT(CASE WHEN filteredDataList.name = "highway" THEN filteredDataList._children[0]._text END) AS pathType,
+     COLLECT(CASE WHEN filteredDataList.name = "maxspeed" THEN filteredDataList._children[0]._text END) AS maxSpeed,
+     COLLECT(CASE WHEN filteredDataList.name = "ref" THEN filteredDataList._children[0]._text END) AS refName
+WITH lineString, pathName[0] AS pathName, pathType[0] AS pathType, maxSpeed[0] AS maxSpeed, refName[0] AS refName
+UNWIND lineString._children as coordsList
+WITH [item in coordsList WHERE item._type = "coordinates"][0]._text as coords, pathName, pathType, maxSpeed, refName
+WITH SPLIT(coords, " ") as gpsList, pathName, pathType, maxSpeed, refName
+UNWIND range(0, size(gpsList) - 1) AS index
+WITH SPLIT(gpsList[index], ",") as gps, pathName, pathType, maxSpeed, refName, index
+MERGE (rc: RC { lat: gps[0], lng: gps[1]})
+ON CREATE SET rc.path = [pathName], rc.pos = [index]
+ON MATCH SET rc.path = rc.path + pathName, rc.pos = rc.pos + index
+MERGE (p: Way { name: pathName, type: pathType, maxSpeed: COALESCE(maxSpeed, 50), ref: COALESCE(refName, "Unknown")})
+RETURN rc,p

@@ -1,0 +1,21 @@
+<osm-script output="xml">
+  <id-query {{nominatimArea:"Heidelberg, Germany"}} into="area"/>
+  <union>
+    <!-- Query for ways with specified highway types -->
+    <query type="way">
+      <has-kv k="highway" regv="motorway|trunk|primary|motorway_link|trunk_link|primary_link|tertiary_link|secondary|tertiary|residential|road"/>
+      <area-query from="area"/>
+    </query>
+    <!-- Query for nodes -->
+    <query type="node">
+      <area-query from="area"/>
+    </query>
+  </union>
+  <union>
+    <!-- Include ways -->
+    <item/>
+    <!-- Include nodes for junctions -->
+    <recurse type="node-way"/>
+  </union>
+  <print mode="body" order="quadtile"/>
+</osm-script>

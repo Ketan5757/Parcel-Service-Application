@@ -23,10 +23,6 @@ This application provides real-time tracking, automated routing, and optimized d
    - Analyzes delivery demand and parcel priorities in different areas.  
    - Allocates messengers effectively to prioritize urgent deliveries.  
 
-✔️ **Drone-Based Delivery (Fictional Use Case)**  
-   - Visualizes drone locations, parcel routes, and real-time delivery updates.  
-   - Implements **Neo4J, MongoDB, and Redis** for live tracking and performance analysis.  
-
 ---
 
 ## 🛠 Technology Stack  
@@ -36,7 +32,7 @@ This application provides real-time tracking, automated routing, and optimized d
 🔹 **Database:** MongoDB  
 🔹 **Routing & Optimization:** GPS & Real-Time Data Processing  
 🔹 **Cloud Services:** Integrated for Live Updates & Notifications  
-🔹 **Tools & Frameworks:** Neo4J, Redis (for drone-based tracking), and more  
+🔹 **Tools & Frameworks:** Neo4J, Redis, and more  
 
 ---
 
